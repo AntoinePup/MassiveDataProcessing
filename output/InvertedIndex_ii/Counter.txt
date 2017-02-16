@@ -1,0 +1,2 @@
+Number of unique words : 56405
+Number of words in single document : 36268
